@@ -1,0 +1,3 @@
+The output to the query was not precise because maybe the model encountered the 1st instance of "Telugu Desam party" and decided to stop and give the answer right away. But actually, there are 3 instances of Telugu Desam Party" with the same date 12/April/2019". So, the answer should have been 30 Lakhs instead of 10 Lakhs.
+
+Also, the application developed could handle only 1 PDF at a time, so there is scope for improvement and I am continuously searching for how to include multiple PDFs in memory so that answers would be more precise.
